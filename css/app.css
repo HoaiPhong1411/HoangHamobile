@@ -217,7 +217,7 @@ body{
     background-color: #ebebeb;
     z-index: 1000;
     top: 60px;
-    right: -200px;
+    right: 0;
     border-radius: 10px;
     border: 4px solid #45b9a8;
     display: none;
@@ -233,7 +233,7 @@ body{
     position: absolute;
     width: 0;
     height: 0;
-    right: 224px;
+    right: 24px;
     top: -40px;
     border-bottom: 20px solid #45b9a8;
     border-left: 20px solid transparent;
@@ -509,7 +509,7 @@ ul.root li{
     margin: 0 auto;
 }
 
-.slider-button spwn {
+.slider-button span {
     position: absolute;
     top: 39%;
     display: block;
